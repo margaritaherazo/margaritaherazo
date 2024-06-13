@@ -1,6 +1,6 @@
 # Hi there, I'm Margarita! 👋
 
-![Me](https://github.com/margaritaherazo/margaritaherazo/assets/143548777/c816e018-8596-412c-a627-087e027a7519)
+![ME](https://github.com/margaritaherazo/margaritaherazo/assets/143548777/e8abf9e4-74b5-48c7-ac0d-f7f27fa452cf)
 
 
 ## About Me 🚀
