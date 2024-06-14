@@ -7,7 +7,7 @@
 
 I'm a creative and dedicated **Front-End Developer** with experience in **HTML, CSS, Javascript and React**. I love to create high-quality web aplications, learning new skills, and collaborating with diverse teams to share and grow.
 
-- 🌱 Currently learning: **Redux and ReactNative**
+- 🌱 Currently learning: **Angular and ReactNative**
 - 🔭 Working on: **Web-site for Acordaselva**
 - 🌍 Languages: **Javascript, Spanish, English, German, Portuguese**
 - 📫 How to reach me: **margarita.herazo.i@gmail.com**
